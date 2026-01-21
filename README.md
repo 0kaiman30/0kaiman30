@@ -19,7 +19,6 @@
 </div>
 Hi, I’m Kairat! I’m a Computer Science student with real-world experience in frontend and fullstack development. I work with React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, and RTK Query, and I’ve also dabbled in Angular and Vue. I’m comfortable building UI with Ant Design and Material UI
 
-
 I’ve been part of projects like CRM systems, educational platforms, and fintech apps - basically, I love turning ideas into functional, user-friendly apps 
 
 When I’m not coding, I run my YouTube and Telegram channels, Kaiman30, where I share my thoughts and tips on education, IT, and tech life in general
