@@ -12,7 +12,6 @@
   </a>
 </div> 
 </div>
-
 <div id="AboutMe" align="center">
 
 # 👻 About Me:
@@ -23,9 +22,10 @@
 
 <p>When I’m not coding, I run my YouTube and Telegram channels, Kaiman30, where I share my thoughts and tips on education, IT, and tech life in general.</p>
 
-<br><br>
+<div id="TeckStack" align="center">
 
 # 💻 Tech Stack:
+</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="nextjs" width="40" height="40"/>&nbsp;
