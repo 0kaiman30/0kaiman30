@@ -13,7 +13,10 @@
 </div> 
 </div>
 
-<div id="AboutMe" align="center"> # About Me: </div>
+<div id="AboutMe" align="center">
+
+# 👻 About Me:
+</div>
 Hi, I’m Kairat — a Computer Science student with commercial experience in frontend and fullstack development. My stack includes React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, RTK Query, plus experience with Angular and Vue. I’ve worked with Ant Design and Material UI.<br><br>I’ve contributed to CRM systems, educational platforms, and fintech applications. Outside of coding, I run a YouTube and Telegram channel Kaiman30, where I share insights on education and IT.<br><br>
 
 # 💻 Tech Stack:
