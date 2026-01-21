@@ -1,11 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29vMDQ4cGkxZ3RvbTc0dDNuY2FpcTJyb25iaWhqYXVqdXJtY2RlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
-</div>
-
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29vMDQ4cGkxZ3RvbTc0dDNuY2FpcTJyb25iaWhqYXVqdXJtY2RlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kairat-imankulov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kairat-imankulov" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
   <a href="https://youtube.com/@kaiman30?si=EiGrYcjwqk0kse4l">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -13,6 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white%22%20alt=%22Telegram%20Badge%22"/>
   </a>
 </div> 
+</div>
 
 # About Me:
 Hi, I’m Kairat — a Computer Science student with commercial experience in frontend and fullstack development. My stack includes React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, RTK Query, plus experience with Angular and Vue. I’ve worked with Ant Design and Material UI.<br><br>I’ve contributed to CRM systems, educational platforms, and fintech applications. Outside of coding, I run a YouTube and Telegram channel Kaiman30, where I share insights on education and IT.<br><br>
