@@ -18,7 +18,7 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px;">
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; max-width: 300px;">
     <p>
       Hi, I'm <b>Kairat</b>! I'm a Computer Science student with real-world experience in frontend and fullstack development. I work with React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, and RTK Query, and I've also dabbled in Angular and Vue. I'm comfortable building UI with Ant Design and Material UI.
     </p>
