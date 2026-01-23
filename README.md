@@ -19,8 +19,6 @@
 
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; max-width: 900px; margin: 0 auto; align-items: start;">
-    
-    <!-- Текстовый контент -->
     <div>
       <p>Hi, I'm Kairat! I'm a Computer Science student with real-world experience in frontend and fullstack development. I work with React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, and RTK Query, and I've also dabbled in Angular and Vue. I'm comfortable building UI with Ant Design and Material UI.</p>
       
@@ -28,8 +26,6 @@
 
       <p>When I'm not coding, I run my YouTube and Telegram channels, Kaiman30, where I share my thoughts and tips on education, IT, and tech life in general.</p>
     </div>
-    
-    <!-- Изображение -->
     <div style="display: flex; justify-content: center;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE3MHNtNTlyazlwd2NnbDAxdW1tOTltMXVsOWg5ejBwY3lxZzljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding GIF" style="max-width: 100%; height: auto;" />
     </div>
