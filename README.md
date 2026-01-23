@@ -16,12 +16,27 @@
 
 # 👻 About Me:
 </div>
-<p>Hi, I’m Kairat! I’m a Computer Science student with real-world experience in frontend and fullstack development. I work with React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, and RTK Query, and I’ve also dabbled in Angular and Vue. I’m comfortable building UI with Ant Design and Material UI.</p>
 
-<p>I’ve been part of projects like CRM systems, educational platforms, and fintech apps - basically, I love turning ideas into functional, user-friendly apps.</p>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Левая колонка с текстом -->
+      <td width="500px" style="vertical-align: top; padding-right: 20px;">
+        <p>Hi, I'm Kairat! I'm a Computer Science student with real-world experience in frontend and fullstack development. I work with React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, and RTK Query, and I've also dabbled in Angular and Vue. I'm comfortable building UI with Ant Design and Material UI.</p>
 
-<p>When I’m not coding, I run my YouTube and Telegram channels, Kaiman30, where I share my thoughts and tips on education, IT, and tech life in general.</p>
+        <p>I've been part of projects like CRM systems, educational platforms, and fintech apps - basically, I love turning ideas into functional, user-friendly apps.</p>
 
+        <p>When I'm not coding, I run my YouTube and Telegram channels, Kaiman30, where I share my thoughts and tips on education, IT, and tech life in general.</p>
+      </td>
+      
+      <!-- Правая колонка с гифкой -->
+      <td width="300px" style="vertical-align: top;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+        <!-- Замените ссылку на свою гифку! -->
+      </td>
+    </tr>
+  </table>
+</div>
 <div id="TeckStack" align="center">
 
 # 💻 Tech Stack:
