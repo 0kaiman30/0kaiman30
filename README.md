@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDM0V7o0x1YA2XBxhfUiRgwnQl17hszO7HQ&s" width="800"/>
+  <img src="https://drive.google.com/file/d/1yR2LNXf-HI81NBwENOeXKZGQIzWKEzXW/view?usp=drive_link" width="800"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kairat-imankulov" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
