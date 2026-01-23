@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1yR2LNXf-HI81NBwENOeXKZGQIzWKEzXW/view?usp=drive_link" width="800"/>
+  <img src="https://github.com/0kaiman30/images/blob/master/HELLO!%20MY%20NAME%20IS%20KAIRAT.png" width="800"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kairat-imankulov" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
