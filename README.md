@@ -18,7 +18,7 @@
 </div>
 <table>
 <tr>
-<td width="450px" valign="top">
+<td width="600px" valign="top">
 
 **Hi, I'm Kairat!** 
 
