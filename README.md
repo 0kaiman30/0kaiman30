@@ -24,7 +24,6 @@
     I've been part of projects like CRM systems, educational platforms, and fintech apps - basically, I love turning ideas into functional, user-friendly apps.
 
     When I'm not coding, I run my YouTube and Telegram channels, Kaiman30, where I share my thoughts and tips on education, IT, and tech life in general.
-    </p>
   </div>
   
   <div style="flex: 0 0 300px; text-align: center;">
