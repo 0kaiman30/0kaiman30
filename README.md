@@ -19,7 +19,6 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px;">
   <div style="flex: 1; min-width: 300px;">
-    
     <p>
       Hi, I'm <b>Kairat</b>! I'm a Computer Science student with real-world experience in frontend and fullstack development. I work with React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, and RTK Query, and I've also dabbled in Angular and Vue. I'm comfortable building UI with Ant Design and Material UI.
     </p>
@@ -33,7 +32,6 @@
   </div>
 
   <div style="flex: 0 0 300px; text-align: center;">
-    
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE3MHNtNTlyazlwd2NnbDAxdW1tOTltMXVsOWg5ejBwY3lxZzljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 10px;" />
   
   </div>
