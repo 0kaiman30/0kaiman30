@@ -16,9 +16,9 @@
 
 # 👻 About Me:
 </div>
-<table>
+<table style="border-collapse: collapse;">
 <tr>
-<td style="border: 1px solid transparent; padding: 10px;" width="650px" valign="top">
+<td width="650px" valign="top" style="border: 1px solid rgba(100, 150, 255, 0.15); padding: 20px; border-radius: 8px; background: rgba(100, 150, 255, 0.05);">
 
 **Hi, I'm Kairat!** 
 
@@ -29,7 +29,7 @@ I've been part of projects like CRM systems, educational platforms, and fintech 
 When I'm not coding, I run my YouTube and Telegram channels, **Kaiman30**, where I share my thoughts and tips on education, IT, and tech life in general.
 
 </td>
-<td style="border: 1px solid transparent;" width="300px" valign="top">
+<td width="300px" valign="top" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 10px; border-radius: 8px;">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE3MHNtNTlyazlwd2NnbDAxdW1tOTltMXVsOWg5ejBwY3lxZzljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding GIF" />
 
