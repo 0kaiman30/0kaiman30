@@ -16,9 +16,9 @@
 
 # 👻 About Me:
 </div>
-<table cellspacing="0" cellpadding="0" border="0">
+<table align="center">
 <tr>
-<td width="650" valign="top" style="border: none;">
+<td width="650" valign="top">
 
 **Hi, I'm Kairat!** 
   
@@ -29,7 +29,7 @@ I've been part of projects like CRM systems, educational platforms, and fintech 
 When I'm not coding, I run my YouTube and Telegram channels, **Kaiman30**, where I share my thoughts and tips on education, IT, and tech life in general.
 
 </td>
-<td width="300" valign="top" style="border: none;">
+<td width="300" valign="top">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE3MHNtNTlyazlwd2NnbDAxdW1tOTltMXVsOWg5ejBwY3lxZzljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding GIF" />
 
@@ -59,8 +59,5 @@ When I'm not coding, I run my YouTube and Telegram channels, **Kaiman30**, where
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
