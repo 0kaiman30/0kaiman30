@@ -16,9 +16,9 @@
 
 # 👻 About Me:
 </div>
-<table border="0" align="center">
+<table cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="650" valign="top">
+<td width="650" valign="top" style="border: none;">
 
 **Hi, I'm Kairat!** 
   
@@ -29,7 +29,7 @@ I've been part of projects like CRM systems, educational platforms, and fintech 
 When I'm not coding, I run my YouTube and Telegram channels, **Kaiman30**, where I share my thoughts and tips on education, IT, and tech life in general.
 
 </td>
-<td width="300" valign="top">
+<td width="300" valign="top" style="border: none;">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE3MHNtNTlyazlwd2NnbDAxdW1tOTltMXVsOWg5ejBwY3lxZzljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding GIF" />
 
