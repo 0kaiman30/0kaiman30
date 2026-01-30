@@ -36,7 +36,7 @@ When I'm not coding, I run my YouTube and Telegram channels, **Kaiman30**, where
 </td>
 </tr>
 </table>
-<div id="TeckStack" align="center">
+<div id="TechStack" align="center">
 
 # 💻 Tech Stack:
 </div>
