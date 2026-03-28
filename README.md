@@ -22,11 +22,11 @@
 
   **Hi, I'm Kairat**
 
-Frontend Developer with commercial experience in web and fintech projects. I build production apps using React, Next.js, TypeScript, SCSS, Redux, and RTK Query — from admin panels and product catalogs to media platforms. I've also worked with Angular in a fintech team and have experience with Ant Design and Material UI.
+Frontend Developer with commercial experience in web and fintech projects. I build production apps using React, Next.js, TypeScript, SCSS, Redux, and RTK Query - from admin panels and product catalogs to media platforms. I've also worked with Angular in a fintech team and have experience with Ant Design and Material UI.
 
 Currently studying Computer Science and expanding into fullstack development with Node.js, PostgreSQL, and Prisma.
 
-When I'm not coding, I run **Kaiman30** on YouTube and Telegram — sharing thoughts on IT, education, and tech life.
+When I'm not coding, I run **Kaiman30** on YouTube and Telegram - sharing thoughts on IT, education, and tech life.
 </td>
 <td width="300" valign="top">
 
