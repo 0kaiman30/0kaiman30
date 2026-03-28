@@ -19,15 +19,13 @@
 <table align="center">
 <tr>
 <td width="650" valign="top">
+**Hi, I'm Kairat!**
 
-**Hi, I'm Kairat!** 
-  
-I'm a Computer Science student with real-world experience in frontend and fullstack development. I work with React, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Redux, and RTK Query, and I've also dabbled in Angular and Vue. I'm comfortable building UI with Ant Design and Material UI.
+Frontend Developer with commercial experience in web and fintech projects. I build production apps using React, Next.js, TypeScript, SCSS, Redux, and RTK Query — from admin panels and product catalogs to media platforms. I've also worked with Angular in a fintech team and have experience with Ant Design and Material UI.
 
-I've been part of projects like CRM systems, educational platforms, and fintech apps - basically, I love turning ideas into functional, user-friendly apps.
+Currently studying Computer Science and expanding into fullstack development with Node.js, PostgreSQL, and Prisma.
 
-When I'm not coding, I run my YouTube and Telegram channels, **Kaiman30**, where I share my thoughts and tips on education, IT, and tech life in general.
-
+When I'm not coding, I run **Kaiman30** on YouTube and Telegram — sharing thoughts on IT, education, and tech life.
 </td>
 <td width="300" valign="top">
 
