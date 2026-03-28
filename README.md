@@ -19,7 +19,8 @@
 <table align="center">
 <tr>
 <td width="650" valign="top">
-**Hi, I'm Kairat!**
+
+  **Hi, I'm Kairat**
 
 Frontend Developer with commercial experience in web and fintech projects. I build production apps using React, Next.js, TypeScript, SCSS, Redux, and RTK Query — from admin panels and product catalogs to media platforms. I've also worked with Angular in a fintech team and have experience with Ant Design and Material UI.
 
